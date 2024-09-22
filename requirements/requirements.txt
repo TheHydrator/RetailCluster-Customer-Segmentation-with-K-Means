@@ -1,1 +1,9 @@
+# Required Python Libraries for RetailCluster Project
+
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+numpy
 
